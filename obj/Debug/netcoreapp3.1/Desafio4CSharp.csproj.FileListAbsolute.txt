@@ -1,0 +1,11 @@
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\Desafio4CSharp.exe
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\Desafio4CSharp.deps.json
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\Desafio4CSharp.runtimeconfig.json
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\Desafio4CSharp.runtimeconfig.dev.json
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\Desafio4CSharp.dll
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\Desafio4CSharp.pdb
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\Desafio4CSharp.csprojAssemblyReference.cache
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\Desafio4CSharp.AssemblyInfoInputs.cache
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\Desafio4CSharp.AssemblyInfo.cs
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\Desafio4CSharp.dll
+C:\Users\EJDH\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\Desafio4CSharp.pdb

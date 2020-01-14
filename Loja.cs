@@ -66,11 +66,11 @@ namespace PrimeiroProjeto
 			double soma = 0;
 			foreach (Livro index in this.livros)
 			{
-				soma = soma + index.Preco;
+				soma += index.Qtd * index.Preco;
 			}
 			foreach (VideoGame index in this.videoGames)
 			{
-				soma = soma + index.Preco;
+				soma += (double)index.Qtd * index.Preco;
 			}
 			Console.WriteLine("O patrimonio da loja: " + this.nome + " é de R$" + soma + ".");
 			
